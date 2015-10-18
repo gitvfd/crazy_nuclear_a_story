@@ -907,7 +907,7 @@ var scrollVis = function() {
         .tickFormat(d3.format(".2s"));
 
     
-    d3.tsv("data/nuclear_weapon.tsv", function(error, data) {
+    d3.tsv("data/Nuclear_weapon.tsv", function(error, data) {
       if (error) throw error;
 
       color.domain(d3.keys(data[0]).filter(function(key) { return key !== "Year" && key !== "Total"}));
