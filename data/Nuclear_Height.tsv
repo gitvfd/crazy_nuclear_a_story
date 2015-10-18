@@ -1,0 +1,2154 @@
+ID	sourceType	depth	name
+1	Atmospheric	-0.03	TRINITY
+2	Atmospheric	-0.58	LITTLEBOY
+3	Atmospheric	-0.503	FATMAN
+4	Atmospheric	-0.16	ABLE:Crossroads
+5	Underwater	0.027	BAKER-CROSSROADS
+6	Atmospheric	-0.06	XRAY:Sandstone
+7	Atmospheric	-0.06	YOKE:Sandstone
+8	Atmospheric	-0.06	ZEBRA:Sandstone
+9	Atmospheric	-0.03	
+10	Atmospheric	-0.32	ABLE:Ranger
+11	Atmospheric	-0.33	BAKER:Ranger
+12	Atmospheric	-0.33	EASY:Ranger
+13	Atmospheric	-0.34	BAKER-2:Ranger
+14	Atmospheric	-0.44	FOX:Ranger
+15	Atmospheric	-0.09	DOG:Greenhouse
+16	Atmospheric	-0.09	EASY:Greenhouse
+17	Atmospheric	-0.06	GEORGE:Greenhouse
+18	Atmospheric	-0.06	ITEM:Greenhouse
+19	Atmospheric	-0.03	
+20	Atmospheric		
+21	Atmospheric	-0.03	ABLE:Buster
+22	Atmospheric	-0.34	BAKER:Buster
+23	Atmospheric	-0.35	CHARLIE:Buster
+24	Atmospheric	-0.43	DOG:Buster
+25	Atmospheric	-0.4	EASY:Buster
+26	Atmospheric	0	SUGAR:Jangle
+27	Underground	0.005	UNCLE
+28	Atmospheric	-0.24	ABLE:Tumbler-Spper
+29	Atmospheric	-0.34	BAKER:Tumbler-Spper
+30	Atmospheric	-1.05	CHARLIE:Tumbler-Spper
+31	Atmospheric	-0.32	DOG:Tumbler-Spper
+32	Atmospheric	-0.09	EASY:Tumbler-Spper
+33	Atmospheric	-0.09	FOX:Tumbler-Spper
+34	Atmospheric	-0.09	GEORGE:Tumbler-Spper
+35	Atmospheric	-0.09	HOW:Tumbler-Spper
+36	Atmospheric	0	HURRICANE
+37	Atmospheric	-0.01	MIKE:Ivy
+38	Atmospheric	-0.45	KING:Ivy
+39	Atmospheric	-0.09	ANNIE:Upshot-Knothole
+40	Atmospheric	-0.09	NCY:Upshot-Knothole
+41	Atmospheric	-0.09	RUTH:Upshot-Knothole
+42	Atmospheric	-1.83	DIXIE:Upshot-Knothole
+43	Atmospheric	-0.03	RAY:Upshot-Knothole
+44	Atmospheric	-0.09	BADGER:Upshot-Knothole
+45	Atmospheric	-0.09	SIMON:Upshot-Knothole
+46	Atmospheric	-0.74	ENCORE:Upshot-Knothole
+47	Atmospheric	-0.09	HARRY:Upshot-Knothole
+48	Atmospheric	-0.16	GRABLE:Upshot-Knothole
+49	Atmospheric	-0.41	CLIMAX:Upshot-Knothole
+50	Atmospheric	-0.03	
+51	Atmospheric		
+52	Atmospheric		
+53	Atmospheric		
+54	Atmospheric		
+55	Atmospheric	-0.031	TOTEM 1
+56	Atmospheric	-0.031	TOTEM 2
+57	Atmospheric	0	BRAVO:Castle
+58	Atmospheric	0	ROMEO:Castle
+59	Atmospheric	0	KOON:Castle
+60	Atmospheric	0	UNION:Castle
+61	Atmospheric	0	YANKEE:Castle
+62	Atmospheric	0	NECTAR:Castle
+63	Atmospheric	-0.35	Totsk
+64	Atmospheric		
+65	Atmospheric		
+66	Atmospheric		
+67	Atmospheric	0	
+68	Atmospheric		
+69	Atmospheric	-0.015	
+70	Atmospheric		
+71	Atmospheric		
+72	Atmospheric	-0.05	
+73	Atmospheric	-0.23	WASP:Teapot
+74	Atmospheric	-0.09	MOTH:Teapot
+75	Atmospheric	-0.09	TESLA:Teapot
+76	Atmospheric	-0.15	TURK:Teapot
+77	Atmospheric	-0.09	HORNET:Teapot
+78	Atmospheric	-0.15	BEE:Teapot
+79	Underground	0.019	ESS
+80	Atmospheric	-0.15	APPLE-1:Teapot
+81	Atmospheric	-0.23	WASP PRIME:Teapot
+82	Atmospheric	-11.16	HA :Teapot
+83	Atmospheric	-0.09	POST:Teapot
+84	Atmospheric	-0.12	MET:Teapot
+85	Atmospheric	-0.15	APPLE-2:Teapot
+86	Underwater	0.61	WIGWAM
+87	Atmospheric	-0.15	ZUCCHINI:Teapot
+88	Atmospheric	-0.003	
+89	Atmospheric	-0.003	
+90	Atmospheric	-0.002	
+91	Underwater	0.012	
+92	Atmospheric	0	PROJECT 56 NO.1:Project 56
+93	Atmospheric	0	PROJECT 56 NO.2:Project 56
+94	Atmospheric	0	PROJECT 56 NO.3:Project 56
+95	Atmospheric		
+96	Atmospheric		
+97	Atmospheric	0	PROJECT 56 NO.4:Project 56
+98	Atmospheric	0	Aralsk
+99	Atmospheric	0	
+100	Atmospheric	-0.001	
+101	Atmospheric	0	LACROSSE:Redwing
+102	Atmospheric	-0.031	MOSAIC G1
+103	Atmospheric	-1.32	CHEROKEE:Redwing
+104	Atmospheric	0	ZUNI:Redwing
+105	Atmospheric		YUMA:Redwing
+106	Atmospheric	-0.09	ERIE:Redwing
+107	Atmospheric	0	SEMINOLE:Redwing
+108	Atmospheric	0	FLATHEAD:Redwing
+109	Atmospheric	-0.06	BLACKFOOT:Redwing
+110	Atmospheric		KICKAPOO:Redwing
+111	Atmospheric	-0.21	OSAGE:Redwing
+112	Atmospheric	-0.031	MOSAIC G2
+113	Atmospheric		INCA:Redwing
+114	Atmospheric	0	DAKOTA:Redwing
+115	Atmospheric		MOHAWK:Redwing
+116	Atmospheric	0	APACHE:Redwing
+117	Atmospheric	0	VAJO:Redwing
+118	Atmospheric	0	TEWA:Redwing
+119	Atmospheric	0	HURON:Redwing
+120	Atmospheric	-0.1	
+121	Atmospheric		
+122	Atmospheric		
+123	Atmospheric		
+124	Atmospheric	-0.031	One Tree
+125	Atmospheric	0	Marcoo
+126	Atmospheric	-0.15	Kite
+127	Atmospheric	-0.034	Breakaway
+128	Atmospheric		
+129	Atmospheric		
+130	Atmospheric	-10.4	
+131	Atmospheric		
+132	Atmospheric		
+133	Atmospheric		
+134	Atmospheric		
+135	Atmospheric		
+136	Atmospheric		
+137	Atmospheric	0	PROJECT 57 NO.1:Project 57
+138	Atmospheric	-2.4	Short Granite
+139	Atmospheric	-0.15	BOLTZMANN:Plumbbob
+140	Atmospheric	-2.4	Orange Herald
+141	Atmospheric	-0.09	FRANKLIN:Plumbbob
+142	Atmospheric	-0.15	LASSEN:Plumbbob
+143	Atmospheric	-0.15	WILSON:Plumbbob
+144	Atmospheric	-2.4	Purple Granite
+145	Atmospheric	-0.21	PRISCILLA:Plumbbob
+146	Atmospheric	0	COULOMB-A:Plumbbob
+147	Atmospheric	-0.46	HOOD:Plumbbob
+148	Atmospheric	-0.15	DIABLO:Plumbbob
+149	Atmospheric	-9.14	JOHN:Plumbbob
+150	Atmospheric	-0.15	KEPLER:Plumbbob
+151	Atmospheric	-0.15	OWENS:Plumbbob
+152	Underground	0.152	PASCAL A
+153	Atmospheric	-0.46	STOKES:Plumbbob
+154	Underground	0.039	SATURN
+155	Atmospheric	-0.15	SHASTA:Plumbbob
+156	Atmospheric		
+157	Atmospheric	-0.46	DOPPLER:Plumbbob
+158	Atmospheric		
+159	Underground	0.152	PASCAL B
+160	Atmospheric	-0.23	FRANKLIN PRIME:Plumbbob
+161	Atmospheric	-0.21	SMOKY:Plumbbob
+162	Atmospheric	-0.15	GALILEO:Plumbbob
+163	Atmospheric	-0.15	WHEELER:Plumbbob
+164	Atmospheric	0	COULOMB-B:Plumbbob
+165	Atmospheric	-0.015	
+166	Atmospheric	-0.23	LAPLACE:Plumbbob
+167	Atmospheric		
+168	Atmospheric	-0.031	Tadje
+169	Atmospheric	-0.15	FIZEAU:Plumbbob
+170	Atmospheric	-0.46	NEWTON:Plumbbob
+171	Underground	0.274	RAINIER
+172	Atmospheric	-0.15	WHITNEY:Plumbbob
+173	Atmospheric	-2	
+174	Atmospheric	-0.031	Biak
+175	Atmospheric		
+176	Atmospheric	-0.46	CHARLESTON:Plumbbob
+177	Atmospheric	-2.12	
+178	Atmospheric	-0.15	MORGAN:Plumbbob
+179	Atmospheric	-0.3	Taraki
+180	Underwater	0.03	
+181	Atmospheric	-2.25	Round A-C
+182	Underground	0.076	PASCAL C
+183	Atmospheric	0	COULOMB-C:Project 58
+184	Atmospheric		
+185	Atmospheric		
+186	Atmospheric		
+187	Underground	0.03	VENUS
+188	Atmospheric	-2.5	
+189	Atmospheric	-2.5	
+190	Atmospheric		
+191	Atmospheric		
+192	Atmospheric		
+193	Atmospheric		
+194	Underground	0.035	URANUS
+195	Atmospheric		
+196	Atmospheric		
+197	Atmospheric		
+198	Atmospheric	-2.5	
+199	Atmospheric		
+200	Atmospheric	-26.21	YUCCA:Hardtack I
+201	Atmospheric	-2.35	Grapple Y
+202	Atmospheric	0	CACTUS:Hardtack I
+203	Atmospheric	0	FIR:Hardtack I
+204	Atmospheric	0	BUTTERNUT:Hardtack I
+205	Atmospheric	0	KOA:Hardtack I
+206	Underwater	0.152	WAHOO
+207	Atmospheric	0	HOLLY:Hardtack I
+208	Atmospheric	0	NUTMEG:Hardtack I
+209	Atmospheric	0	YELLOWWOOD:Hardtack I
+210	Atmospheric	0	MAGNOLIA:Hardtack I
+211	Atmospheric	0	TOBACCO:Hardtack I
+212	Atmospheric	0	SYCAMORE:Hardtack I
+213	Atmospheric	0	ROSE:Hardtack I
+214	Underwater	0.045	UMBRELLA
+215	Atmospheric	0	MAPLE:Hardtack I
+216	Atmospheric	0	ASPEN:Hardtack I
+217	Atmospheric	0	WALNUT:Hardtack I
+218	Atmospheric	0	LINDEN:Hardtack I
+219	Atmospheric	0	REDWOOD:Hardtack I
+220	Atmospheric	0	ELDER:Hardtack I
+221	Atmospheric	0	OAK:Hardtack I
+222	Atmospheric	0	HICKORY:Hardtack I
+223	Atmospheric	0	SEQUOIA:Hardtack I
+224	Atmospheric	0	CEDAR:Hardtack I
+225	Atmospheric	0	DOGWOOD:Hardtack I
+226	Atmospheric	0	POPLAR:Hardtack I
+227	Atmospheric	0	SCAEVOLA:Hardtack I
+228	Atmospheric	0	PISONIA:Hardtack I
+229	Atmospheric	0	JUNIPER:Hardtack I
+230	Atmospheric	0	OLIVE:Hardtack I
+231	Atmospheric	0	PINE:Hardtack I
+232	Atmospheric	-76.81	TEAK:Hardtack I
+233	Atmospheric	0	QUINCE:Hardtack I
+234	Atmospheric	-42.98	ORANGE:Hardtack I
+235	Atmospheric	0	FIG:Hardtack I
+236	Atmospheric		Pennt 2
+237	Atmospheric	-200	ARGUS I:Argus
+238	Atmospheric	-200	ARGUS II:Argus
+239	Atmospheric	-2.85	Flagpole 1
+240	Atmospheric	-200	ARGUS III:Argus
+241	Atmospheric	-2.65	Halliard 1
+242	Underground	0.146	OTERO
+243	Underground	0.139	BERLILLO
+244	Atmospheric	-0.15	EDDY:Hardtack II
+245	Underground	0.148	LU
+246	Atmospheric	0	Burgee 2
+247	Underground	0.056	MERCURY
+248	Underground	0.148	VALENCIA
+249	Underground	0.038	MARS
+250	Atmospheric	-0.46	MORA:Hardtack II
+251	Atmospheric	-1.5	
+252	Atmospheric	-2.5	
+253	Atmospheric	-1.4	
+254	Atmospheric		
+255	Atmospheric	-0.8	
+256	Atmospheric	-1.2	
+257	Atmospheric	-0.11	HIDALGO:Hardtack II
+258	Underground	0.152	COLFAX
+259	Atmospheric	-1.2	
+260	Underground	0.101	TAMALPAIS
+261	Atmospheric		
+262	Atmospheric	-0.03	QUAY:Hardtack II
+263	Atmospheric		
+264	Atmospheric	-0.46	LEA:Hardtack II
+265	Underground	0.03	NEPTUNE
+266	Atmospheric	-2.15	
+267	Atmospheric	-0.02	HAMILTON:Hardtack II
+268	Underground	0.253	LOGAN
+269	Atmospheric	-0.15	DO A:Hardtack II
+270	Atmospheric	0	VESTA:Hardtack II
+271	Atmospheric		
+272	Atmospheric	-0.02	RIO ARRIBA:Hardtack II
+273	Atmospheric	-0.9	
+274	Atmospheric		
+275	Atmospheric		
+276	Underground	0.071	SAN JUAN
+277	Atmospheric	-0.27	
+278	Atmospheric	-2.07	
+279	Atmospheric	-0.46	SOCORRO:Hardtack II
+280	Atmospheric	-0.46	WRANGELL:Hardtack II
+281	Atmospheric	-0.008	OBERON:Hardtack II
+282	Atmospheric	-0.15	RUSHMORE:Hardtack II
+283	Atmospheric	-1.525	
+284	Atmospheric	-0.02	CATRON:Hardtack II
+285	Atmospheric	0	JUNO:Hardtack II
+286	Atmospheric	-1.5	
+287	Atmospheric	-0.3	
+288	Atmospheric	-0.01	CERES:Hardtack II
+289	Atmospheric	-0.46	SANFORD:Hardtack II
+290	Atmospheric	-0.46	DE BACA:Hardtack II
+291	Atmospheric	-0.015	CHAVES/CHAVEZ:Hardtack II
+292	Underground	0.256	EVANS
+293	Atmospheric	-0.015	MAZAMA:Hardtack II
+294	Atmospheric	-0.01	HUMBOLDT:Hardtack II
+295	Atmospheric	-0.46	SANTA FE:Hardtack II
+296	Atmospheric	0	GANYMEDE:Hardtack II
+297	Underground	0.301	BLANCA
+298	Atmospheric	-0.01	TITANIA:Hardtack II
+299	Atmospheric	-12	
+300	Atmospheric	-22.5	
+301	Atmospheric	-0.1	GERBOISE BLEUE
+302	Atmospheric	0	GERBOISE BLANCHE
+303	Atmospheric	-0.05	GERBOISE ROUGE
+304	Atmospheric	-0.05	GERBOISE VERTE
+305	Atmospheric		
+306	Atmospheric		
+307	Atmospheric		
+308	Atmospheric		
+309	Atmospheric	-22.7	
+310	Atmospheric	0	
+311	Atmospheric		
+312	Atmospheric	-2	
+313	Atmospheric	-0.39	
+314	Atmospheric		
+315	Atmospheric	-1.19	
+316	Atmospheric	-0.25	
+317	Atmospheric		
+318	Atmospheric	0	
+319	Atmospheric	-1.7	
+320	Underground	0.402	ANTLER
+321	Atmospheric		
+322	Underground	0.098	SHREW
+323	Atmospheric		
+324	Atmospheric	-0.001	
+325	Atmospheric		
+326	Atmospheric	-1.5	
+327	Atmospheric	0	
+328	Atmospheric		
+329	Atmospheric	-1.6	
+330	Atmospheric		
+331	Atmospheric	-1.3	
+332	Atmospheric		
+333	Atmospheric		
+334	Underground	0.101	BOOMER
+335	Atmospheric	-1.5	
+336	Atmospheric		
+337	Atmospheric	-2.1	
+338	Atmospheric	-41.3	
+339	Atmospheric	-2.7	
+340	Atmospheric	-1.45	
+341	Underground	0.255	CHE
+342	Underground	0.116	
+343	Atmospheric		
+344	Atmospheric		
+345	Atmospheric		
+346	Atmospheric		
+347	Atmospheric	-3.5	
+348	Underwater	0.02	
+349	Atmospheric		
+350	Atmospheric	-1.45	
+351	Atmospheric	-150	K2
+352	Atmospheric	-300	K1
+353	Atmospheric	-0.001	
+354	Underground	0.192	MINK
+355	Atmospheric		
+356	Atmospheric	-4	
+357	Atmospheric	-2.2	
+358	Atmospheric	-1.53	
+359	Atmospheric		
+360	Atmospheric	-1.5	
+361	Atmospheric		
+362	Atmospheric	-1.4	
+363	Atmospheric	0	
+364	Atmospheric		
+365	Atmospheric	-1.77	
+366	Atmospheric	-2.24	
+367	Atmospheric	0	
+368	Atmospheric	-1.75	
+369	Underground		AGATE
+370	Underground	0.364	FISHER
+371	Underground	0.361	GNOME
+372	Underground	0.181	MAD
+373	Underground	0.363	RINGTAIL
+374	Underground	0.247	FEATHER
+375	Underground	0.302	STOAT
+376	Underground	0.261	AGOUTI
+377	Underground	0.363	DORMOUSE
+378	Underground	0.238	
+379	Underground	0.181	STILLWATER
+380	Underground	0.24	ARMADILLO
+381	Underground	0.287	HARD HAT
+382	Underground	0.15	CHINCHILLA I
+383	Underground	0.212	CODSAW
+384	Underground	0.305	CIMARRON
+385	Underground	0.058	PLATYPUS
+386	Underground	0.363	PAMPAS
+387	Underground	0.034	DANNY BOY
+388	Underground	0.073	ERMINE
+389	Underground	0.256	BRAZOS
+390	Underground	0.24	HOGNOSE
+391	Underground	0.187	HOOSIC
+392	Underground	0.137	CHINCHILLA II
+393	Underground	0.261	DORMOUSE PRIME
+394	Underground	0.233	PASSAIC
+395	Underground	0.151	HUDSON
+396	Underground	0.191	PLATTE
+397	Underground	0.193	DEAD
+398	Atmospheric	-0.88	ADOBE:Dominic
+399	Atmospheric	-0.8	AZTEC:Dominic
+400	Underground	0.218	BLACK
+401	Underground		BERYL
+402	Atmospheric	-1.53	ARKANSAS:Dominic
+403	Atmospheric	-1.59	QUESTA:Dominic
+404	Atmospheric	-3.35	FRIGATE BIRD:Dominic
+405	Underground	0.258	PACA
+406	Atmospheric	-0.88	YUKON:Dominic
+407	Atmospheric	-0.75	MESILLA:Dominic
+408	Underground	0.166	ARIKAREE
+409	Atmospheric	-0.91	MUSKEGON:Dominic
+410	Underwater	0.204	SWORDFISH
+411	Atmospheric	-1.68	ENCINO:Dominic
+412	Underground	0.434	AARDVARK
+413	Atmospheric	-0.9	SWANEE:Dominic
+414	Underground	0.218	EEL
+415	Atmospheric	-2.1	CHETCO:Dominic
+416	Underground	0.193	WHITE
+417	Atmospheric	-2.75	TA:Dominic
+418	Atmospheric	-2.18	MBE:Dominic
+419	Underground	0.164	RACCOON
+420	Underground	0.262	PACKRAT
+421	Atmospheric	-2.7	ALMA:Dominic
+422	Atmospheric	-2.12	TRUCKEE:Dominic
+423	Atmospheric	-2.54	YESO:Dominic
+424	Atmospheric	-4.16	HARLEM:Dominic
+425	Underground	0.201	DES MOINES
+426	Atmospheric	-2.78	RINCODA:Dominic
+427	Atmospheric	-2.77	DULCE:Dominic
+428	Atmospheric	-4.57	PETIT:Dominic
+429	Underground	0.26	DAMAN I
+430	Atmospheric	-2.75	OTOWI:Dominic
+431	Atmospheric	-3.6	BIGHORN:Dominic
+432	Underground	0.408	HAYMAKER
+433	Underground	0.311	MARSHMALLOW
+434	Atmospheric	-1.52	BLUESTONE:Dominic
+435	Underground	0.149	SACRAMENTO
+436	Underground	0.194	SEDAN
+437	Atmospheric	-0.001	LITTLE FELLER II:Sunbeam
+438	Atmospheric	-400	STARFISH PRIME:Fishbowl
+439	Atmospheric	-1.52	SUNSET:Dominic
+440	Atmospheric	-4.37	PAMLICO:Dominic
+441	Underground	0.001	JOHNNIE BOY
+442	Underground	0.413	MERRIMAC
+443	Atmospheric	-0.003	SMALL BOY:Sunbeam
+444	Atmospheric	-0.013	LITTLE FELLER I:Sunbeam
+445	Underground	0.15	WICHITA
+446	Atmospheric		
+447	Atmospheric		
+448	Atmospheric		
+449	Atmospheric	-3.6	
+450	Atmospheric		
+451	Atmospheric	-1.56	
+452	Atmospheric		
+453	Atmospheric		
+454	Atmospheric	-2.5	
+455	Atmospheric		
+456	Atmospheric	-1.7	
+457	Atmospheric		
+458	Atmospheric	0	
+459	Atmospheric		
+460	Underground	0.226	YORK
+461	Underground	0.206	BOBAC
+462	Atmospheric		
+463	Atmospheric	-2.98	
+464	Atmospheric		
+465	Atmospheric	-3	
+466	Atmospheric		
+467	Atmospheric	-1.3	
+468	Underground	0.157	RARITAN
+469	Atmospheric	-1.73	
+470	Underground	0.217	HYRAX
+471	Atmospheric		
+472	Atmospheric		
+473	Atmospheric	-2	
+474	Atmospheric	-3.28	
+475	Underground	0.241	PEBA
+476	Atmospheric	-3	
+477	Atmospheric	0	
+478	Atmospheric		
+479	Atmospheric	0	
+480	Atmospheric	-4.09	
+481	Atmospheric	-3.9	
+482	Atmospheric		
+483	Underground	0.211	ALLEGHENY
+484	Atmospheric	-3.13	ANDROSCOGGIN:Dominic
+485	Underground	0.494	MISSISSIPPI
+486	Atmospheric	-3.05	BUMPING:Dominic
+487	Atmospheric	-1.4	
+488	Atmospheric		
+489	Atmospheric	-3	
+490	Atmospheric		
+491	Underground	0.155	ROANOKE
+492	Underground	0.073	WOLVERINE
+493	Atmospheric		
+494	Atmospheric		
+495	Underground	0.059	TIOGA
+496	Atmospheric	-3.65	CHAMA:Dominic
+497	Underground	0.241	BANDICOOT
+498	Atmospheric		
+499	Atmospheric	-10	CHECKMATE:Fishbowl
+500	Atmospheric	-290	K3
+501	Atmospheric	-3.23	
+502	Atmospheric	-10	BLUEGILL 3 PRIME:Fishbowl
+503	Atmospheric	-1.55	
+504	Underground	0.319	SANTEE
+505	Atmospheric	-3.59	CALAMITY:Dominic
+506	Atmospheric		
+507	Atmospheric		
+508	Atmospheric	-150	K4
+509	Atmospheric	-1.55	
+510	Atmospheric		
+511	Atmospheric	-1.5	
+512	Atmospheric	-3.7	HOUSATONIC:Dominic
+513	Atmospheric		
+514	Atmospheric	-1.5	
+515	Atmospheric	-59	K5
+516	Atmospheric		
+517	Atmospheric	-10	KINGFISH:Fishbowl
+518	Atmospheric		
+519	Atmospheric	-0.71	
+520	Atmospheric	-4	
+521	Atmospheric		
+522	Atmospheric	-10	TIGHTROPE:Fishbowl
+523	Atmospheric	-0.015	
+524	Underground	0.167	ST. LAWRENCE
+525	Atmospheric	-0.008	
+526	Atmospheric	0	
+527	Atmospheric		
+528	Underground	0.241	GUNDI
+529	Atmospheric		
+530	Atmospheric	0	
+531	Atmospheric	0	
+532	Underground	0.228	ACOSTIA
+533	Atmospheric		
+534	Underground	0.227	TAUNTON
+535	Underground	0.303	TENDRAC
+536	Underground	0.402	MADISON
+537	Underground	0.232	NUMBAT
+538	Underground	0.06	MATEE
+539	Atmospheric	-1.5	
+540	Atmospheric	-1.6	
+541	Atmospheric	-1.07	
+542	Atmospheric	-1.05	
+543	Atmospheric	0	
+544	Atmospheric	-1.47	
+545	Atmospheric	-1.27	
+546	Atmospheric	-1.46	
+547	Atmospheric	0	
+548	Atmospheric	0	
+549	Atmospheric	-1.32	
+550	Atmospheric	-3.75	
+551	Atmospheric	-0.99	
+552	Atmospheric	-2.25	
+553	Underground	0.303	CASSELMAN
+554	Underground	0.061	HATCHIE
+555	Underground	0.326	FERRET
+556	Underground	0.261	ACUSHI
+557	Underground	0.059	CHIPMUNK
+558	Underground	0.227	KAWEAH
+559	Underground	0.163	CARMEL
+560	Underground	0.301	JERBOA
+561	Underground	0.131	TOYAH
+562	Underground		EMERAUDE
+563	Underground	0.28	GERBIL
+564	Underground		AMETHYSTE
+565	Underground	0.242	FERRET PRIME
+566	Underground	0.075	COYPU
+567	Underground	0.226	CUMBERLAND
+568	Underground	0.182	KOOTAI
+569	Underground	0.057	PAISANO
+570	Underground	0.272	GUNDI PRIME
+571	Atmospheric	0	DOUBLE TRACKS:Roller Coaster
+572	Underground	0.075	TEJON
+573	Underground	0.241	HARKEE
+574	Underground	0.393	STONES
+575	Atmospheric	0	CLEAN SLATE I:Roller Coaster
+576	Underground	0.211	PLEASANT
+577	Atmospheric	0	CLEAN SLATE II:Roller Coaster
+578	Underground	0.243	YUBA
+579	Underground	0.135	HUTIA
+580	Underground	0.089	APSHAPA
+581	Atmospheric	0	CLEAN SLATE III:Roller Coaster
+582	Underground	0.196	MATACO
+583	Underground	0.226	KENNEBEC
+584	Underground	0.302	PEKAN
+585	Underground	0.225	SATS0P
+586	Underground	0.255	KOHOCTON
+587	Underground	0.059	TCHES
+588	Underground	0.226	AHTANUM
+589	Underground	0.714	BILBY
+590	Underground	0.33	CARP
+591	Underground	0.15	RRAGUAGUS
+592	Underground	0.261	GRUNION
+593	Underground	0.149	TORNILLO
+594	Underground	0.545	CLEARWATER
+595	Underground	0.06	MULLETT
+596	Underground		RUBIS
+597	Underground	0.367	SHOAL
+598	Underground	0.26	ANCHOVY
+599	Underground	0.166	MUSTANG
+600	Underground	0.301	GREYS
+601	Underground	0.263	BARRACUDA
+602	Underground	0.262	SARDINE
+603	Underground	0.165	EAGLE
+604	Underground	0.414	TU
+605	Underground	0.491	FORE
+606	Underground	0.265	OCONTO
+607	Underground	0.18	CLUB
+608	Underground	0.15	SOLENDON
+609	Underground	0.226	BUNKER
+610	Underground		OPALE
+611	Underground	0.301	BONEFISH
+612	Underground	0.334	MACKEREL
+613	Underground	0.493	KLICKITAT
+614	Underground	0.144	HANDICAP
+615	Underground	0.114	PIKE
+616	Underground	0.22	
+617	Underground	0.204	HOOK
+618	Underground	0.15	STURGEON
+619	Underground	0.119	BOGEY
+620	Underground	0.507	TURF
+621	Underground	0.262	PIPEFISH
+622	Underground	0.15	DRIVER
+623	Underground	0.168	BACKSWING
+624	Underground	0.241	MINNOW
+625	Underground	0.253	
+626	Underground		
+627	Underground	0.263	ACE
+628	Underground	0.193	BITTERLING
+629	Underground		TOPAZE
+630	Underground	0.45	DUFFER
+631	Underground	0.205	FADE
+632	Underground	0.259	DUB
+633	Underground	0.394	BYE
+634	Underground	0.272	CORMORANT
+635	Underground	1.68	
+636	Underground	0.12	LINKS
+637	Underground	0.193	TROGON
+638	Underground		
+639	Underground	0.168	ALVA
+640	Underground	0.448	CANVASBACK
+641	Underground	0.091	PLAYER
+642	Underground	0.364	HADDOCK
+643	Underground	0.261	GUAY
+644	Underground	0.18	SPOON
+645	Underground	0.1	
+646	Underground	0.359	COURSER
+647	Underground		
+648	Underground	0.452	AUK
+649	Underground	0.404	PAR
+650	Atmospheric	-0.102	
+651	Underground	0.126	TURNSTONE
+652	Underground	0.259	BARBEL
+653	Underground	0.828	SALMON
+654	Underground	0.15	GARDEN
+655	Underground	0.5	
+656	Underground	0.381	FOREST
+657	Underground	0.403	HANDCAR
+658	Underground	0.194	
+659	Underground		TURQUOISE
+660	Underground	0.404	CREPE
+661	Underground	0.219	DRILL SOURCE (lower)
+662	Underground	0.188	DRILL TARGET (upper)
+663	Underground	0.18	PARROT
+664	Underground	0.07	HOOPOE
+665	Underground	0.15	CASSOWARY
+666	Underground	0.152	MUDPACK
+667	Underground	0.027	SULKY
+668	Underground	0.215	WOOL
+669	Underground	0.178	Chagan
+670	Underground	0.211	TERN
+671	Underground		
+672	Underground	0.232	CASHMERE
+673	Underground	0.225	ALPACA
+674	Underground	0.299	MERLIN
+675	Underground	0.186	WISHBONE
+676	Underground	0.144	SEERSUCKER
+677	Underground	0.785	SAPHIR
+678	Underground	0.196	
+679	Underground	0.75	WAGTAIL
+680	Underground	0.146	SUEDE
+681	Underground	0.541	CUP
+682	Underground		
+683	Underground	1.341	Butane 1-1-a
+684	Underground	1.375	Butane 1-1-b
+685	Underground	0.447	KESTREL
+686	Underground	0.061	PALANQUIN
+687	Underground	0.305	GUM DROP
+688	Underground	0.141	CHENILLE
+689	Underground	0.18	MUSCOVY
+690	Underground	0.19	TEE
+691	Underground	0.103	
+692	Underground	0.696	BUTEO
+693	Atmospheric	-0.5	
+694	Underground	0.298	CAMBRIC
+695	Underground	0.427	SCAUP
+696	Underground	0.281	TWEED
+697	Underground		JADE
+698	Underground	1.35	Butane 1-2
+699	Underground	0.181	PETREL
+700	Underground	0.173	ORGANDY
+701	Underground	0.195	DILUTED WATERS
+702	Underground	0.152	
+703	Underground	0.111	TINY TOT
+704	Underground	0.164	IZZER
+705	Underground	0.135	PONGEE
+706	Underground	0.531	BRONZE
+707	Underground	0.126	
+708	Underground	0.321	MAUVE
+709	Underground	0.21	TICKING
+710	Underground	0.172	CENTAUR
+711	Underground	0.194	MOA
+712	Underground	0.302	SCREAMER
+713	Underground	0.455	CHARCOAL
+714	Underground	0.156	
+715	Underground	0.219	ELKHART
+716	Underground		CORINDON
+717	Underground	0.204	
+718	Underground	0.048	Sary-Uzen
+719	Underground	0.701	LONG SHOT
+720	Underground	0.241	SEPIA
+721	Underground	0.278	
+722	Underground	0.198	KERMET
+723	Underground		TOURMALINE
+724	Underground	0.682	CORDUROY
+725	Underground	0.261	EMERSON
+726	Underground	0.5	BUFF
+727	Underground	0.213	
+728	Underground	0.183	MAXWELL
+729	Underground	0.561	LAMPBLACK
+730	Underground	0.275	SIEN
+731	Underground	0.333	DOVEKIE
+732	Underground	0.213	REO
+733	Underground	0.27	PLAID II
+734	Underground	0.297	
+735	Underground	0.403	GRET
+736	Underground	0.671	REX
+737	Underground	0.405	RED HOT
+738	Underground	0.12	CINMON
+739	Underground	0.196	FINFOOT
+740	Underground	0.397	CLYMER
+741	Underground	0.333	PURPLE
+742	Underground	0.294	
+743	Underground	0.151	TEMPLAR
+744	Underground	0.561	LIME
+745	Underground	0.225	STUTZ
+746	Underground	0.226	TOMATO
+747	Underground	0.544	DURYEA
+748	Underground	0.178	
+749	Underground	0.161	Azgir A-1
+750	Underground	0.167	FENTON
+751	Underground	0.296	PIN STRIPE
+752	Underground	0.126	OCHRE
+753	Underground	0.197	TRAVELER
+754	Underground	0.305	CYCLAMEN
+755	Underground	0.667	CHARTREUSE
+756	Underground	0.274	
+757	Atmospheric		
+758	Underground	0.247	TAPESTRY
+759	Underground	0.549	PIRANHA
+760	Underground	0.671	DUMONT
+761	Underground	0.337	DISCUS THROWER
+762	Underground	0.463	PILE DRIVER
+763	Underground	0.561	TAN
+764	Underground	0.486	PUCE
+765	Underground	0.328	DOUBLE PLAY
+766	Underground	0.455	KANKAKEE
+767	Underground	0.322	VULCAN
+768	Underground	0.187	
+769	Underground	0.819	HALFBEAK
+770	Atmospheric	0	ALDEBARAN
+771	Atmospheric		TAMOURE
+772	Underground	0.17	
+773	Underground	0.152	SAXON
+774	Underground	0.171	
+775	Underground	0.195	ROVE
+776	Underground	0.088	TANGERINE
+777	Underground	0.134	
+778	Underground	0.117	
+779	Atmospheric	-0.47	BETELGEUSE
+780	Underground	0.255	DERRINGER
+781	Underground	0.561	DAIQURI
+782	Atmospheric	-0.003	RIGEL
+783	Underground	0.229	NEWARK
+784	Underground	1.532	Urtabulak
+785	Atmospheric	-0.01	SIRIUS
+786	Underground	0.233	KHAKI
+787	Underground	0.185	
+788	Underground		
+789	Atmospheric	-0.569	
+790	Underground		
+791	Underground		
+792	Underground	0.198	SIMMS
+793	Underground	0.238	AJAX
+794	Underground	0.211	CERISE
+795	Underground		
+796	Underground	0.091	VIGIL
+797	Underground	0.153	
+798	Underground	0.828	STERLING
+799	Underground	0.24	SIDECAR
+800	Underground	0.244	NEW POINT
+801	Underground	0.427	
+802	Underground	1.215	GREELEY
+803	Atmospheric	-0.102	
+804	Underground	0.152	RIVET I
+805	Underground	0.364	SH
+806	Underground	0.56	BOURBON
+807	Underground	0.198	RIVET II
+808	Underground	0.131	
+809	Underground	0.257	WARD
+810	Underground	0.299	PERSIMMON
+811	Underground	0.732	AGILE
+812	Underground	0.241	
+813	Underground	0.271	RIVET III
+814	Underground	0.18	MUSHROOM
+815	Underground	0.118	FIZZ
+816	Underground	0.152	
+817	Underground	0.166	OAKLAND
+818	Underground	0.153	HEILMAN
+819	Underground	0.271	FAWN
+820	Underground	0.225	
+821	Underground	0.24	CHOCOLATE
+822	Underground	0.219	EFFENDI
+823	Underground	0.5	MICKEY
+824	Underground	0.744	COMMODORE
+825	Underground	0.977	SCOTCH
+826	Underground	0.119	ABSINTHE
+827	Underground	0.631	KNICKERBOCKER
+828	Underground	0.262	
+829	Atmospheric	-0.295	ALTAIR
+830	Atmospheric	-3	
+831	Underground	0.305	SWITCH
+832	Underground	0.378	MIDI MIST
+833	Atmospheric	-0.34	ANTARES
+834	Underground	0.195	
+835	Underground	0.31	UMBER
+836	Atmospheric	0	ARCTURUS
+837	Underground	0.09	VITO
+838	Underground	0.161	
+839	Underground	0.484	STANLEY
+840	Underground	0.16	
+841	Underground	0.241	GIBSON
+842	Underground	0.465	WASHER
+843	Underground	0.332	BORDEAUX
+844	Underground	0.226	LEXINGTON
+845	Underground	0.436	DOOR MIST
+846	Underground		
+847	Underground	0.521	YARD
+848	Underground	0.241	GILROY
+849	Underground	0.23	
+850	Underground	0.174	MARVEL
+851	Underground	0.229	
+852	Underground	0.667	ZAZA
+853	Underground	0.172	Tawda
+854	Underground	0.181	
+855	Underground	0.714	LANPHER
+856	Underground		
+857	Underground	0.301	SAZERAC
+858	Underground	0.24	COGC
+859	Underground	0.187	WORTH
+860	Underground	0.173	
+861	Underground	0.667	COBBLER
+862	Underground	0.227	
+863	Underground	0.19	POLKA
+864	Underground	0.15	
+865	Underground	1.292	GASBUGGY
+866	Underground	0.333	STILT
+867	Atmospheric		
+868	Underground	0.237	
+869	Underground	0.247	HUPMOBILE
+870	Underground	0.443	STACCATO
+871	Underground	0.975	FAULTLESS
+872	Underground	0.118	BRUSH
+873	Underground	0.052	CABRIOLET
+874	Underground	0.24	MALLET
+875	Underground	0.241	TORCH
+876	Underground	0.645	KNOX
+877	Underground	0.41	DORSAL FIN
+878	Underground	0.12	RUSSET
+879	Underground	0.041	BUGGY D
+880	Underground	0.041	BUGGY C
+881	Underground	0.041	BUGGY A
+882	Underground	0.041	BUGGY B
+883	Underground	0.041	BUGGY E
+884	Underground	0.209	POMMARD
+885	Underground	0.668	STINGER
+886	Underground	0.265	MILK SHAKE
+887	Underground	0.241	BEVEL
+888	Underground	0.229	THROW
+889	Underground	0.381	NOOR
+890	Underground	0.493	SHUFFLE
+891	Underground	0.229	SCROLL
+892	Underground	0.127	
+893	Underground	1.158	BOXCAR
+894	Underground	0.241	HATCHET
+895	Underground	0.182	CROCK
+896	Underground	0.473	CLARKSMOBILE
+897	Underground	2.44	Pamuk
+898	Underground		
+899	Underground	0.24	ADZE
+900	Underground	0.238	WEMBLEY
+901	Underground	0.189	TUB C
+902	Underground	0.189	TUB A
+903	Underground	0.273	TUB D
+904	Underground	0.189	TUB B
+905	Underground	0.189	TUB F
+906	Underground	0.149	
+907	Underground	0.683	RICKEY
+908	Underground	0.316	
+909	Underground	0.359	SEVILLA
+910	Underground	0.119	FUNNEL
+911	Underground	0.607	CHATEAUGAY
+912	Underground	0.597	Azgir A-2-1
+913	Atmospheric	-0.463	CAPELLA
+914	Underground	0.172	
+915	Atmospheric	-0.65	CASTOR
+916	Underground	0.24	SPUD
+917	Underground	0.381	TANYA
+918	Atmospheric	-0.49	POLLUX
+919	Underground	0.179	IMP
+920	Underground	0.2	RACK
+921	Underground	0.208	
+922	Atmospheric	-0.52	CANOPUS
+923	Underground	0.242	DIA MOON
+924	Underground	0.729	SLED
+925	Underground	0.162	
+926	Underground	0.582	NOGGIN
+927	Atmospheric	-0.7	PROCYON
+928	Underground	0.332	KNIFE A
+929	Underground	0.468	STODDARD
+930	Underground	0.344	HUDSON SEAL
+931	Underground	0.29	
+932	Underground	0.118	WELDER
+933	Underground	0.301	KNIFE C
+934	Underground	0.192	VAT
+935	Underground	0.031	Telkem 1
+936	Underground		
+937	Underground	0.201	HULA
+938	Underground	0.118	BIT B
+939	Underground	0.229	FILE
+940	Underground	0.148	BIT A
+941	Underground	0.36	CREW 3rd
+942	Underground	0.36	CREW 2nd
+943	Underground	0.604	CREW
+944	Underground		
+945	Underground	0.125	
+946	Underground	0.031	Telkem 2-a
+947	Underground	0.031	Telkem 2-b
+948	Underground	0.031	Telkem 2-c
+949	Underground	0.24	AUGER
+950	Underground	0.363	KNIFE B
+951	Underground	0.308	MING VASE
+952	Underground	0.44	TINDERBOX
+953	Underground	0.111	SCHOONER
+954	Underground	0.13	BAY LEAF
+955	Underground	0.228	TYG A
+956	Underground	0.251	TYG B
+957	Underground	0.228	TYG C
+958	Underground	0.207	TYG D
+959	Underground	0.265	TYG F
+960	Underground	0.198	TYG E
+961	Underground	0.241	SCISSORS
+962	Underground	0.194	
+963	Underground	1.402	BENHAM
+964	Atmospheric		
+965	Underground	0.247	PACKARD
+966	Underground	0.518	WINESKIN
+967	Underground	0.241	SHAVE
+968	Underground	0.454	VISE
+969	Underground	0.242	BIGGIN
+970	Underground	0.241	NIPPER
+971	Underground	0.241	WINCH
+972	Underground	0.411	CYPRESS
+973	Underground	0.214	
+974	Underground	0.091	VALISE
+975	Underground	0.195	CHATTY
+976	Underground	0.304	BARSAC
+977	Underground	0.465	COFFER
+978	Underground		
+979	Underground		
+980	Underground	0.227	GOURD BROWN
+981	Underground	0.181	GOURD AMBER
+982	Underground	0.558	BLENTON
+983	Underground	0.56	THISTLE
+984	Underground	0.599	PURSE
+985	Underground	0.24	ALIMENT
+986	Underground	0.184	
+987	Underground	0.124	IPECAC B
+988	Underground	0.124	IPECAC A
+989	Underground	0.515	TORRIDO
+990	Underground	0.258	
+991	Underground	0.303	TAPPER
+992	Underground	0.198	BOWL-1
+993	Underground	0.229	BOWL-2
+994	Underground	0.219	
+995	Underground	0.41	ILDRIM
+996	Underground	0.549	HUTCH
+997	Underground	0.175	
+998	Underground	0.228	SPIDER B
+999	Underground	0.213	SPIDER A
+1000	Underground	0.332	HOREHOUND
+1001	Underground	0.239	PLIERS
+1002	Underground	1.212	Grifon-1
+1003	Underground	1.208	Grifon-2
+1004	Underground	2.568	RULISON
+1005	Underground	0.19	
+1006	Underground	0.265	MINUTE STEAK
+1007	Underground	1.159	JORUM
+1008	Underground	0.192	KYACK A
+1009	Underground	0.186	KYACK B
+1010	Underground		
+1011	Underground	0.712	Stavropol
+1012	Atmospheric		
+1013	Underground	0.144	
+1014	Underground	0.119	SEAWEED C
+1015	Underground	0.118	SEAWEED D
+1016	Underground	0.124	SEAWEED E
+1017	Underground	1.217	MILROW
+1018	Underground	0.624	PIPKIN
+1019	Underground		
+1020	Underground	0.119	SEAWEED B
+1021	Underground	0.264	CRUET
+1022	Underground	0.171	POD C
+1023	Underground	0.249	POD B
+1024	Underground	0.312	POD D
+1025	Underground	0.267	POD A
+1026	Underground	0.625	CALABASH
+1027	Underground		
+1028	Underground	0.165	SCUTTLE
+1029	Underground	0.394	PICCALILLI
+1030	Underground	0.378	PLANER
+1031	Underground		
+1032	Underground	0.472	
+1033	Underground	0.419	DIESEL TRAIN
+1034	Underground	0.407	Mangyshlak-1
+1035	Underground	0.149	CULANTRO B
+1036	Underground	0.134	CULANTRO A
+1037	Underground	0.194	TUN B
+1038	Underground	0.256	TUN D
+1039	Underground	0.2	TUN A
+1040	Underground	0.194	TUN C
+1041	Underground	0.551	GRAPE A
+1042	Underground	0.378	LOVAGE
+1043	Underground	0.418	TERRINE YELLOW
+1044	Underground	0.457	TERRINE WHITE
+1045	Underground	0.388	
+1046	Underground	0.086	
+1047	Underground	0.101	FOB BLUE
+1048	Underground	0.244	FOB GREEN
+1049	Underground	0.266	FOB RED
+1050	Underground	0.214	
+1051	Underground	0.304	AJO
+1052	Underground	0.554	GRAPE B
+1053	Underground	0.421	BELEN
+1054	Underground	0.442	LABIS
+1055	Underground	0.402	DIA MIST
+1056	Underground		
+1057	Underground	0.408	CUMARIN
+1058	Underground	0.364	YANNIGAN BLUE
+1059	Underground	0.395	YANNIGAN WHITE
+1060	Underground	0.392	YANNIGAN RED
+1061	Underground	0.294	CYATHUS
+1062	Underground	0.101	ARABIS BLUE
+1063	Underground	0.259	ARABIS GREEN
+1064	Underground	0.25	ARABIS RED
+1065	Underground	0.301	JAL
+1066	Underground	0.56	SHAPER
+1067	Underground	1.209	HANDLEY
+1068	Underground	0.138	
+1069	Underground	0.344	SNUBBER
+1070	Underground	0.274	CAN GREEN
+1071	Underground	0.399	CAN RED
+1072	Underground	0.39	BEEBALM
+1073	Underground	0.265	HOD B (RED)
+1074	Underground	0.101	HOD C (BLUE)
+1075	Underground	0.241	HOD A (GREEN )
+1076	Underground	0.405	MINT LEAF
+1077	Underground	0.27	DIAMOND DUST
+1078	Underground	0.39	CORNICE YELLOW
+1079	Underground	0.443	CORNICE GREEN
+1080	Atmospheric	-0.22	ANDROMEDE
+1081	Underground	0.241	MANZAS
+1082	Underground	0.483	MORRONES
+1083	Atmospheric	-0.5	CASSIOPEE
+1084	Underground	0.422	HUDSON MOON
+1085	Underground	0.335	FLASK YELLOW
+1086	Underground	0.152	FLASK RED
+1087	Underground	0.529	FLASK GREEN
+1088	Underground	0.066	
+1089	Underground	0.101	PITON C
+1090	Underground	0.23	PITON B
+1091	Underground	0.236	PITON A
+1092	Atmospheric	-0.5	DRAGON
+1093	Atmospheric	-0.22	ERIDAN
+1094	Underground	0.702	Magistral
+1095	Underground	0.309	ARNICA YELLOW
+1096	Underground	0.264	ARNICA VIOLET
+1097	Underground	0.332	
+1098	Underground		
+1099	Atmospheric	-0.5	LICORNE
+1100	Underground	0.225	
+1101	Underground	0.154	
+1102	Atmospheric	-0.22	PEGASE
+1103	Atmospheric	-0.4	ORION
+1104	Atmospheric	-0.5	TOUCAN
+1105	Underground	0.212	
+1106	Underground		
+1107	Underground	0.101	SCREE CHAMOIS
+1108	Underground	0.249	SCREE ACAJOU
+1109	Underground	0.192	SCREE ALHAMBRA
+1110	Underground		
+1111	Atmospheric		
+1112	Underground	0.561	TIJERAS
+1113	Underground	0.118	TRUCHAS CHACON
+1114	Underground	0.118	TRUCHAS CHAMISAL
+1115	Underground	0.266	TRUCHAS RODARTE
+1116	Underground	0.249	
+1117	Underground	0.393	ABEYTAS
+1118	Underground	0.271	PESCO
+1119	Underground	0.279	CARRIZOZO
+1120	Underground	0.241	CORAZON
+1121	Underground	0.497	Mangyshlak-2
+1122	Underground	0.302	CANJILON
+1123	Underground	0.185	ARTESIA
+1124	Underground	0.306	AVENS ALKERMES
+1125	Underground	0.306	AVENS ASAMITE
+1126	Underground	0.294	AVENS CREAM
+1127	Underground	0.38	AVENS ANDORRE
+1128	Underground	0.193	
+1129	Underground	0.661	CARPETBAG
+1130	Underground	0.278	BANEBERRY
+1131	Underground	0.47	Mangyshlak-3
+1132	Underground		
+1133	Underground		
+1134	Underground	0.283	
+1135	Underground	0.127	Taiga-a
+1136	Underground	0.127	Taiga-b
+1137	Underground	0.127	Taiga-c
+1138	Underground		
+1139	Underground	0.296	
+1140	Underground	0.132	
+1141	Atmospheric	-0.275	DIONE
+1142	Underground	0.299	
+1143	Atmospheric	-0.45	ENCELADE
+1144	Underground	0.303	EMBUDO
+1145	Underground	0.29	
+1146	Underground	0.12	DEXTER
+1147	Underground	0.455	LAGU
+1148	Underground	0.519	HAREBELL
+1149	Underground	0.424	CAMPHOR
+1150	Underground	0.217	
+1151	Underground	0.266	DIAMOND MINE
+1152	Underground	0.542	Globe-4
+1153	Atmospheric	-0.23	JAPET
+1154	Underground	0.529	MINIATA
+1155	Underground	0.305	BRACKEN
+1156	Underground	0.465	Globe-3
+1157	Underground	0.241	APODACA
+1158	Underground	0.271	BARRANCA
+1159	Underground	0.244	MA MEPHISTO
+1160	Underground	0.273	MA AMARYLIS
+1161	Underground	0.412	BALTIC
+1162	Atmospheric	-0.23	PHOEBE
+1163	Atmospheric	-0.48	RHEA
+1164	Underground	0.528	ALGODONES
+1165	Underground	0.61	Globe-1
+1166	Underground	0.15	FRIJOLES DEMING
+1167	Underground	0.257	FRIJOLES GUAJE
+1168	Underground	0.226	FRIJOLES PETACA
+1169	Underground	0.149	FRIJOLES ESPUELA
+1170	Underground		
+1171	Underground	0.379	PEDERL
+1172	Underground	0.331	CHANTILLY
+1173	Underground	0.595	Globe-2
+1174	Underground	0.378	CATHAY
+1175	Underground	0.237	
+1176	Underground	0.305	LAGOON
+1177	Underground	0.324	
+1178	Underground	1.14	Sapphire-1
+1179	Underground	1.791	CANNIKIN
+1180	Atmospheric		
+1181	Underground	0.264	DIAGOL LINE
+1182	Underground	0.203	
+1183	Underground	0.331	PARSSIA
+1184	Underground	0.331	CHAECTIS
+1185	Underground	0.332	YERBA
+1186	Underground	0.302	HOSPAH
+1187	Underground	0.115	
+1188	Underground	0.986	Azgir A-3-1
+1189	Underground		
+1190	Underground	0.249	
+1191	Underground	0.12	MESCALERO
+1192	Atmospheric		
+1193	Underground	0.302	COWLES
+1194	Underground	0.295	
+1195	Underground	0.305	DIANTHUS
+1196	Underground	0.171	
+1197	Atmospheric		
+1198	Underground	0.198	SAPPHO
+1199	Underground	0.124	
+1200	Underground	0.279	OJA
+1201	Underground	0.21	OCATE
+1202	Underground	1.72	Crater
+1203	Underground	0.326	LONGCHAMPS
+1204	Underground	0.148	JICARILLA
+1205	Underground		
+1206	Underground	0.376	MISTY NORTH
+1207	Underground	0.259	KARA
+1208	Underground	0.323	ZINNIA
+1209	Underground	0.537	MONERO
+1210	Underground	0.208	
+1211	Underground		
+1212	Underground	0.204	MERIDA
+1213	Atmospheric	-0.23	UMBRIEL
+1214	Underground	0.134	CAPITAN
+1215	Underground	0.332	TAJIQUE
+1216	Underground	0.184	HAPLOPAPPUS
+1217	Atmospheric	-0.22	TITANIA
+1218	Underground	0.081	
+1219	Underground	2.483	Fakel
+1220	Underground	0.424	DIAMOND SCULLS
+1221	Underground	0.294	ATARQUE
+1222	Underground		
+1223	Atmospheric	-0.22	OBERON
+1224	Atmospheric	-0.01	ARIEL
+1225	Underground	0.287	CEBOLLA
+1226	Underground	0.198	CUCHILLO
+1227	Underground	0.134	SOLANO
+1228	Underground	0.139	
+1229	Underground	0.489	Region-3
+1230	Underground	0.285	
+1231	Underground		
+1232	Underground	0.185	
+1233	Underground	0.131	Dnepr-1
+1234	Underground	0.485	Region-1
+1235	Underground	0.56	OSCURO
+1236	Underground	0.296	DELPHINIUM
+1237	Underground	0.485	Region-4
+1238	Underground	0.521	
+1239	Underground	0.267	AKBAR
+1240	Underground	0.25	ARSETE
+1241	Underground	0.213	CAN LIMOGES
+1242	Underground	0.183	CAN UMBRINUS
+1243	Underground	0.675	Region-2
+1244	Underground	0.423	Region-5
+1245	Underground	0.264	
+1246	Underground	0.478	
+1247	Underground	0.271	TULOSO
+1248	Underground	0.201	SOLANUM
+1249	Underground	0.688	FLAX SOURCE
+1250	Underground	0.436	FLAX TEST
+1251	Underground	0.445	FLAX BACKUP
+1252	Underground	0.132	
+1253	Underground	0.183	ALUMROOT
+1254	Underground		
+1255	Underground	0.569	MIERA
+1256	Underground	0.326	GAZOOK
+1257	Underground	0.244	TOMA
+1258	Underground		
+1259	Underground	0.453	ANGUS
+1260	Underground	0.277	VELARDE
+1261	Underground	0.246	COLMOR
+1262	Underground	0.564	STARWORT
+1263	Underground	0.149	MESITA
+1264	Underground	1.78	RIO BLANCO 1
+1265	Underground	2.039	RIO BLANCO 3
+1266	Underground	1.899	RIO BLANCO 2
+1267	Underground	0.198	CABRESTO
+1268	Underground	0.265	KASHAN
+1269	Underground	0.391	DIDO QUEEN
+1270	Underground	1.064	ALMENDRO
+1271	Underground	0.567	POTRILLO
+1272	Atmospheric		
+1273	Underground	0.466	PORTULACA
+1274	Underground	0.198	SILENE
+1275	Underground		
+1276	Atmospheric	-0.22	EUTERPE
+1277	Underground		
+1278	Atmospheric	-0.22	MELPOMENE
+1279	Underground	0.6	Meridian-3
+1280	Atmospheric	-0.27	PALLAS
+1281	Atmospheric	-0.22	PARTHENOPE
+1282	Underground	0.395	Meridian-1
+1283	Atmospheric		TAMARA
+1284	Underground	1.15	
+1285	Underground	0.615	Meridian-2
+1286	Underground		
+1287	Underground		
+1288	Underground	1.145	Sapphire-2
+1289	Underground	0.213	POLYGONUM
+1290	Underground	0.311	WALLER
+1291	Underground	0.413	HUSKY ACE
+1292	Underground		
+1293	Underground	2.026	Kama-2
+1294	Underground		
+1295	Underground		
+1296	Underground	0.283	BERL
+1297	Underground	0.278	PAJARA
+1298	Underground	0.198	SEAFOAM
+1299	Underground		
+1300	Underground	0.149	SPAR
+1301	Underground	0.381	ELIDA
+1302	Underground		
+1303	Underground	0.282	PINEDROPS TAWNY
+1304	Underground	0.213	PINEDROPS BAYOU
+1305	Underground	0.343	PINEDROPS SLOAT
+1306	Underground		
+1307	Underground	0.641	LATIR
+1308	Underground		
+1309	Underground	0.195	HULSEA
+1310	Underground	0.181	SAPELLO
+1311	Underground		
+1312	Underground	0.21	POTRERO
+1313	Underground	0.149	PLOMO
+1314	Underground	0.18	JIB
+1315	Underground		
+1316	Underground	0.11	SMILING BUDDHA
+1317	Underground	0.314	GROVE
+1318	Underground	0.466	FALLON
+1319	Underground		
+1320	Underground	0.378	JARA
+1321	Atmospheric	-0.22	CAPRICORNE
+1322	Atmospheric		
+1323	Underground	0.388	MING BLADE
+1324	Underground		
+1325	Atmospheric	-0.312	GEMEAUX
+1326	Underground	2.123	Kama-1
+1327	Underground		
+1328	Underground	0.639	ESCABOSA
+1329	Atmospheric	-0.27	CENTAURE
+1330	Underground	0.374	CRESTLAKE BRIAR
+1331	Underground	0.272	CRESTLAKE TANSAN
+1332	Atmospheric	-0.25	MAQUIS
+1333	Atmospheric	-0.006	PERSEE
+1334	Underground		
+1335	Underground	0.43	PUYE
+1336	Underground	0.534	Horizon-2
+1337	Atmospheric	-0.312	SCORPION
+1338	Atmospheric	-0.27	TAUREAU
+1339	Underground		
+1340	Underground	0.583	Horizon-1
+1341	Underground	0.655	PORTMANTEAU
+1342	Underground		
+1343	Atmospheric	-0.433	VERSEAU
+1344	Underground	0.314	PRATT
+1345	Underground	0.263	TRUMBULL
+1346	Underground	0.573	STANYAN
+1347	Underground	0.098	Crystal
+1348	Underground		
+1349	Underground	0.32	ESTACA
+1350	Underground	0.404	HYBLA FAIR
+1351	Underground		
+1352	Underground	0.263	TEMESCAL
+1353	Underground	0.184	PUDDLE
+1354	Underground		
+1355	Underground	0.075	Lazurite
+1356	Underground		
+1357	Underground		
+1358	Underground	0.305	KEEL
+1359	Underground		
+1360	Underground	0.274	PORTOLA LARKIN
+1361	Underground	0.198	PORTOLA
+1362	Underground	0.305	TELEME
+1363	Underground	0.318	BILGE
+1364	Underground		
+1365	Underground		
+1366	Underground	0.713	TOPGALLANT
+1367	Underground	0.6	CABRILLO
+1368	Underground		
+1369	Underground	0.383	DINING CAR
+1370	Underground	0.412	EDAM
+1371	Underground	0.6	Azgir A-2-2
+1372	Underground		
+1373	Underground	0.569	OBAR
+1374	Underground	0.765	TYBO
+1375	Underground	0.732	STILTON
+1376	Underground	0.637	MIZZEN
+1377	Underground	0.623	ACHILLE
+1378	Underground		
+1379	Underground	0.183	ALVISO
+1380	Underground	0.186	FUTTOCK
+1381	Underground	0.911	MAST
+1382	Underground	1.311	CAMEMBERT
+1383	Underground		
+1384	Underground		
+1385	Underground		
+1386	Underground	0.496	Horizon-4
+1387	Underground		
+1388	Underground	0.427	MARSH
+1389	Underground	0.834	Horizon-3
+1390	Underground		
+1391	Underground		
+1392	Underground		
+1393	Underground		
+1394	Underground	0.328	HUSKY PUP
+1395	Underground		
+1396	Underground	1.265	KASSERI
+1397	Underground		
+1398	Underground	0.326	DECK
+1399	Underground	0.818	INLET
+1400	Underground	0.585	HECTOR
+1401	Underground	0.326	LEYDEN
+1402	Underground		
+1403	Underground	0.716	CHIBERTA
+1404	Underground		
+1405	Underground	1.452	MUENSTER
+1406	Underground		
+1407	Atmospheric		
+1408	Underground	0.64	KEELSON
+1409	Underground	0.655	ESROM
+1410	Underground	1.219	FONTI
+1411	Underground	1.167	CHESHIRE
+1412	Underground	0.244	SHALLOWS
+1413	Underground	0.857	ESTUARY
+1414	Underground	1.273	COLBY
+1415	Underground		
+1416	Underground	0.879	POOL
+1417	Underground	0.78	STRAIT
+1418	Underground	0.986	Azgir A-3-2
+1419	Underground	0.6	PATROCLE
+1420	Underground		
+1421	Underground		
+1422	Underground		
+1423	Underground	0.398	MIGHTY EPIC
+1424	Underground		
+1425	Underground	0.2	RIVOLI
+1426	Underground		
+1427	Underground		
+1428	Underground		MENELAS
+1429	Underground		
+1430	Underground	0.636	BILLET
+1431	Underground	1	Azgir A-4
+1432	Underground		
+1433	Underground	0.536	BANON
+1434	Underground		
+1435	Atmospheric		
+1436	Underground		
+1437	Underground	0.2	GOUDA
+1438	Underground		
+1439	Underground		
+1440	Underground		
+1441	Underground		ULYSSE_A
+1442	Underground	1.522	Oka
+1443	Underground	0.183	SPRIT
+1444	Atmospheric		
+1445	Underground		
+1446	Underground	0.317	CHEVRE
+1447	Underground		ASTYAX
+1448	Underground		
+1449	Underground		
+1450	Underground	0.427	REDMUD
+1451	Underground	0.331	ASIAGO
+1452	Underground	0.2	SUTTER
+1453	Underground	0.639	RUDDER
+1454	Underground		
+1455	Underground	0.318	OARLOCK
+1456	Underground	0.335	COVE
+1457	Underground		ULYSSE_B
+1458	Underground	0.282	DOFINO LAWTON
+1459	Underground	0.183	DOFINO
+1460	Underground		NESTOR
+1461	Underground		
+1462	Underground		
+1463	Underground		OEDIPE
+1464	Underground	0.69	MARSILLY
+1465	Underground		
+1466	Underground	0.594	BULKHEAD
+1467	Underground	0.564	CREWLINE
+1468	Underground		
+1469	Underground	0.194	FOREFOOT
+1470	Underground		
+1471	Underground		AJAX
+1472	Underground	0.85	Meteorite-2
+1473	Underground	0.208	CARNELIAN
+1474	Underground		
+1475	Underground	0.518	STRAKE
+1476	Underground	0.494	Meteorite-5
+1477	Underground	0.32	GRUYERE GRADINO
+1478	Underground	0.207	GRUYERE
+1479	Underground	0.275	FLOTOST
+1480	Underground		
+1481	Underground	0.45	SCUPPER
+1482	Underground	0.701	SCANTLING
+1483	Underground	0.6	Meteorite-3
+1484	Underground		
+1485	Underground		
+1486	Underground	0.55	Meteorite-4
+1487	Underground	0.379	EBBTIDE
+1488	Atmospheric		
+1489	Underground	0.53	COULOMMIERS
+1490	Underground	1.5	Azgir A-5
+1491	Underground		
+1492	Underground	0.6	Azgir A-2-3
+1493	Underground	0.381	BOBSTAY
+1494	Underground		
+1495	Underground		
+1496	Underground	0.6	Azgir A-2-4
+1497	Underground	0.385	HYBLA GOLD
+1498	Underground	0.701	SANDREEF
+1499	Underground		ORESTE
+1500	Underground		
+1501	Underground	0.37	SEAMOUNT
+1502	Underground		ENEE
+1503	Underground		
+1504	Underground		
+1505	Underground	0.213	RIB
+1506	Underground	0.668	FARALLONES
+1507	Underground		LAOCOON
+1508	Underground		
+1509	Underground		
+1510	Underground	0.32	CAMPOS
+1511	Underground	0.658	REBLOCHON
+1512	Underground		POLYPHEME
+1513	Atmospheric		
+1514	Underground	0.331	KARAB
+1515	Underground		
+1516	Underground		PYLADE
+1517	Underground	0.457	TOPMAST
+1518	Underground	0.64	ICEBERG
+1519	Underground		HECUBE
+1520	Underground		
+1521	Underground	0.633	FONDUTTA
+1522	Underground	0.672	BACKBEACH
+1523	Underground		
+1524	Underground	0.183	ASCO
+1525	Underground	0.64	TRANSOM
+1526	Underground		
+1527	Underground		
+1528	Underground	0.304	JACKPOTS
+1529	Underground		
+1530	Underground		
+1531	Underground		XANTHOS
+1532	Underground		
+1533	Underground	0.315	SATZ
+1534	Underground	0.564	LOWBALL
+1535	Underground		ARES
+1536	Underground		IDOMENEE
+1537	Underground		
+1538	Underground	0.567	Kraton-4
+1539	Underground		
+1540	Underground	0.577	Kraton-3
+1541	Underground		
+1542	Underground		
+1543	Underground	0.681	PANIR
+1544	Underground	0.6	Azgir A-2-5
+1545	Underground	0.388	DIABLO HAWK
+1546	Underground		
+1547	Underground		
+1548	Underground	0.886	Kraton-2
+1549	Underground		
+1550	Underground	0.21	CREMINO
+1551	Underground	0.42	CREMINO CAERPHILLY
+1552	Underground	0.442	DRAUGHTS
+1553	Underground	0.64	RUMMY
+1554	Underground	1.545	Vyatka
+1555	Underground		
+1556	Underground		
+1557	Underground	0.97	Azgir A-7-a
+1558	Underground	1.04	Azgir A-7-b
+1559	Underground	0.593	Kraton-1
+1560	Underground		
+1561	Underground	0.576	EMMENTHAL
+1562	Underground		SCHEDIOS
+1563	Underground		
+1564	Underground	0.542	QUARGEL
+1565	Underground		
+1566	Underground		
+1567	Underground	0.6	Azgir A-2-6
+1568	Underground		PRIAM
+1569	Underground	0.247	CONCENTRATION
+1570	Atmospheric		
+1571	Underground		
+1572	Underground	0.689	FARM
+1573	Underground		ETEOCLE
+1574	Underground	0.63	Azgir A-9
+1575	Underground		EUMEE
+1576	Underground		
+1577	Underground	0.6	Azgir A-2-7
+1578	Underground	0.934	Azgir A-8-a
+1579	Underground	0.995	Azgir A-8-b
+1580	Underground	0.326	BACCARAT
+1581	Underground		
+1582	Underground	0.579	QUINELLA
+1583	Underground	0.536	KLOSTER
+1584	Underground		
+1585	Underground		PENTHESILEE
+1586	Underground		PHILOCTETE
+1587	Underground	0.365	MEMORY
+1588	Underground		
+1589	Underground		AGAPENOR
+1590	Underground		POLYDORE
+1591	Underground		
+1592	Underground		
+1593	Underground	0.335	FREEZEOUT
+1594	Underground		
+1595	Underground	0.681	PEPATO
+1596	Underground		
+1597	Underground		PYRRHOS
+1598	Underground	0.335	CHESS
+1599	Underground		
+1600	Underground		EGISTHE
+1601	Underground		
+1602	Underground	0.849	Azgir A-11-a
+1603	Underground	0.916	Azgir A-11-b
+1604	Underground	0.982	Azgir A-11-c
+1605	Underground		
+1606	Underground		
+1607	Underground		TYDEE
+1608	Underground		PALAMEDE
+1609	Underground	0.45	BURZET
+1610	Underground		
+1611	Underground	0.396	OFFSHORE
+1612	Underground	0.982	Kimberlite-4
+1613	Underground		
+1614	Underground	0.464	NESSEL
+1615	Underground	0.64	HEARTS
+1616	Underground	0.599	Kimberlite-3
+1617	Underground	0.2	PERA
+1618	Underground		
+1619	Underground	0.903	Cleavage
+1620	Underground		
+1621	Underground	0.64	SHEEPSHEAD
+1622	Underground		
+1623	Underground	0.837	Kimberlite-1
+1624	Underground	1.545	Sheks
+1625	Underground		
+1626	Underground		
+1627	Underground	0.915	Azgir A-10-a
+1628	Underground	0.98	Azgir A-10-b
+1629	Underground		
+1630	Underground		CHRYSOTEMIS
+1631	Underground		ATREE
+1632	Underground	0.229	BACKGAMMON
+1633	Underground		
+1634	Underground		
+1635	Underground	0.205	AZUL
+1636	Underground		
+1637	Underground		
+1638	Underground		THYESTE
+1639	Underground	0.369	TARKO
+1640	Underground		ADRASTE
+1641	Underground	0.271	NORBO
+1642	Underground		
+1643	Underground		THESEE
+1644	Underground		BOROS
+1645	Underground	0.417	LIPTAUER
+1646	Underground		
+1647	Underground		PELOPS
+1648	Underground		
+1649	Underground	0.579	PYRAMID
+1650	Underground		
+1651	Underground	0.633	COLWICK
+1652	Underground	0.351	CANFIELD
+1653	Underground		
+1654	Underground	0.335	FLORA
+1655	Underground		
+1656	Underground	0.645	KASH
+1657	Underground	1.4	Butane 2-1
+1658	Underground		EURYPLE
+1659	Underground		ILUS
+1660	Underground	0.32	HURON KING
+1661	Underground		
+1662	Underground	1.39	Butane 2-2
+1663	Underground		
+1664	Underground		CHRYSES
+1665	Underground		ASIOS
+1666	Underground	0.68	TAFI
+1667	Underground		
+1668	Underground	0.366	VERDELLO
+1669	Underground		
+1670	Underground		
+1671	Underground	0.381	BORDA
+1672	Underground	0.424	RIOLA
+1673	Underground	1.05	Vega-1
+1674	Underground		
+1675	Underground		
+1676	Atmospheric		
+1677	Underground		
+1678	Underground	0.427	DUTCHESS
+1679	Underground	0.39	MINERS IRON
+1680	Underground	0.72	Batholith-1
+1681	Underground	0.32	DAUPHIN
+1682	Underground		LAERTE
+1683	Underground		DIOMEDE
+1684	Underground		
+1685	Underground		
+1686	Underground	2.485	Angara
+1687	Underground		
+1688	Underground	0.573	SERPA
+1689	Underground		
+1690	Underground		
+1691	Underground	0.564	BASEBALL
+1692	Underground	0.354	CLAIRETTE
+1693	Underground	0.2	SECO
+1694	Underground		BROTEAS
+1695	Underground		TYRO
+1696	Underground		
+1697	Underground		IPHICLES
+1698	Underground		
+1699	Underground		CLYMENE
+1700	Underground		
+1701	Underground	0.323	VIDE
+1702	Underground	1.511	Pyrite
+1703	Underground		
+1704	Underground	0.32	ALIGOTE
+1705	Underground		
+1706	Underground	0.637	HARZER
+1707	Underground		
+1708	Underground		LYNCEE
+1709	Underground	0.341	NIZA
+1710	Underground		ERYX
+1711	Underground	0.207	PINEAU
+1712	Underground		
+1713	Underground		THERAS
+1714	Underground		AGENOR
+1715	Underground	0.2	HAVARTI
+1716	Underground		
+1717	Underground	0.294	ISLAY
+1718	Underground	2.088	Hellum-1
+1719	Underground	0.305	TREBBIANO
+1720	Underground		
+1721	Underground	0.213	CERDA
+1722	Underground	1.05	Vega 2-1
+1723	Underground	1.05	Vega 2-2
+1724	Underground		
+1725	Underground	0.472	PALIZA
+1726	Underground		
+1727	Underground		
+1728	Underground	0.581	Shpat-2
+1729	Underground		LETO
+1730	Underground		PROCLES
+1731	Underground	0.445	TILCI
+1732	Underground	0.517	ROUSANNE
+1733	Underground		
+1734	Underground		
+1735	Underground	0.494	AKAVI
+1736	Underground		CILIX
+1737	Underground		CADMOS
+1738	Underground	0.335	CABOC
+1739	Underground		
+1740	Underground		
+1741	Underground	0.639	JORDA
+1742	Underground	0.638	MOLBO
+1743	Underground	0.64	H0STA
+1744	Underground		
+1745	Underground		AEROPE
+1746	Underground		DEIPHOBE
+1747	Underground		RHESOS
+1748	Underground		EVENOS
+1749	Underground	0.357	TEJA
+1750	Underground		
+1751	Underground	0.57	GIBNE
+1752	Underground	0.335	KRYDDOST
+1753	Underground	0.564	BOUSCHET
+1754	Underground	0.289	KESTI
+1755	Underground	0.64	NEBBIOLO
+1756	Underground		
+1757	Underground		LAODICE
+1758	Underground		ANTILOKOS
+1759	Underground		
+1760	Underground		PITANE
+1761	Underground		LAIOS
+1762	Underground	0.4	MONTEREY
+1763	Underground	0.554	Rift-3
+1764	Underground	0.64	ATRISCO
+1765	Underground	0.216	QUESO
+1766	Underground		
+1767	Underground		
+1768	Underground	0.229	CERRO
+1769	Underground	0.96	Rift-1
+1770	Underground		
+1771	Underground	0.407	DIAMOND ACE
+1772	Underground	0.408	HURON LANDING
+1773	Underground	0.451	FRISCO
+1774	Underground	0.554	Rift-4
+1775	Underground	0.563	BORREGO
+1776	Underground		
+1777	Underground	1.502	Neva-1
+1778	Underground		
+1779	Underground	0.947	Vega 3-1
+1780	Underground	0.991	Vega 3-2
+1781	Underground	1.1	Vega 3-3
+1782	Underground	1.057	Vega 3-4
+1783	Underground	0.366	SEYVAL
+1784	Underground		PROCRIS
+1785	Underground		
+1786	Underground	0.413	MANTECA
+1787	Underground		
+1788	Underground		
+1789	Underground	0.274	COALORA
+1790	Underground	0.343	CHEEDAM
+1791	Underground		
+1792	Underground	0.542	CABRA
+1793	Underground		
+1794	Underground		
+1795	Underground	0.533	TURQUOISE
+1796	Underground		EURYTOS
+1797	Underground	0.265	ARMADA
+1798	Underground		AUTOMEDON
+1799	Underground		
+1800	Underground	0.39	CROWDIE
+1801	Underground		CINYRAS
+1802	Underground	0.379	MINI JADE
+1803	Underground	0.384	FAHADA
+1804	Underground		
+1805	Underground	0.32	DABLU
+1806	Underground		
+1807	Underground		BURISIS
+1808	Underground		
+1809	Underground		OXYLOS
+1810	Underground	0.907	Lira 1-1
+1811	Underground	0.917	Lira 1-2
+1812	Underground	0.841	Lira 1-3
+1813	Underground		BATTOS
+1814	Underground	0.326	LABAN
+1815	Underground		CARBON
+1816	Underground	0.32	SABADO
+1817	Underground		
+1818	Underground	0.2	JARLSBERG
+1819	Underground	0.624	CHANCELLOR
+1820	Underground		
+1821	Underground	0.405	TOMME/MIDNIGHT ZEPHYR
+1822	Underground	0.293	BRANCO
+1823	Underground	0.427	BRANCO HERKIMER
+1824	Underground	0.532	TECHADO
+1825	Underground	1.05	Vega 4-1
+1826	Underground	1.05	Vega 4-2
+1827	Underground	0.92	Vega 4-3
+1828	Underground	1.1	Vega 4-4
+1829	Underground	0.95	Vega 4-5
+1830	Underground	1.1	Vega 4-6
+1831	Underground		
+1832	Underground	0.183	VATA
+1833	Underground		
+1834	Underground		
+1835	Underground		
+1836	Underground		
+1837	Underground		
+1838	Underground		
+1839	Underground		
+1840	Underground		LINOS
+1841	Underground		GYGES
+1842	Underground	0.244	MUGGINS
+1843	Underground	0.515	ROMANO
+1844	Underground		
+1845	Underground	0.388	GORBEA
+1846	Underground	0.361	MIDAS MYTH/MILAGRO
+1847	Underground		
+1848	Underground	0.639	TORTUGAS
+1849	Underground		
+1850	Underground		
+1851	Underground	0.32	AGRINI
+1852	Underground		
+1853	Underground		
+1854	Underground	0.566	MUNDO
+1855	Underground	0.21	ORKNEY
+1856	Underground		DEMOPHON
+1857	Underground		MIDAS
+1858	Underground	0.207	BELLOW
+1859	Underground		
+1860	Underground	0.6	CAPROCK
+1861	Underground		ARISTEE
+1862	Underground		ECHEMOS
+1863	Underground	0.381	DUORO
+1864	Underground	0.2	NORMAN
+1865	Underground		
+1866	Underground	0.846	Lira 2-1
+1867	Underground	0.955	Lira 2-2
+1868	Underground	0.844	Lira 2-3
+1869	Underground	0.64	KAPPELI
+1870	Underground	0.334	CORREO
+1871	Underground	0.759	Quartz-2
+1872	Underground	0.726	Quartz-3
+1873	Underground		
+1874	Underground	0.175	Dnepr-2-a
+1875	Underground	0.175	Dnepr-2-b
+1876	Underground	2.065	Hellum 2-1
+1877	Underground	2.075	Hellum 2-2
+1878	Underground	0.314	WEXFORD
+1879	Underground	0.365	DOLCETTO
+1880	Underground		
+1881	Underground	0.483	BRETON
+1882	Underground	0.557	Quartz-4
+1883	Underground	0.35	VERMEJO
+1884	Underground		
+1885	Underground		
+1886	Underground		
+1887	Underground		
+1888	Underground	1	Vega 5-1
+1889	Underground	1	Vega 5-2
+1890	Underground		MACHAON
+1891	Underground		ACASTE
+1892	Underground	0.372	V ILLITA
+1893	Underground		
+1894	Underground		MILETOS
+1895	Underground		
+1896	Underground		MEMNON
+1897	Underground	0.546	EGMONT
+1898	Underground	0.64	TIERRA
+1899	Underground		
+1900	Underground		
+1901	Underground	0.244	MINERO
+1902	Underground		
+1903	Underground		
+1904	Underground	0.426	VAUGHN
+1905	Underground	0.515	COTTAGE
+1906	Underground	0.64	HERMOSA
+1907	Underground	0.389	MISTY RAIN
+1908	Underground		
+1909	Underground		CERCYON
+1910	Underground	0.66	TOWANDA
+1911	Underground		NISOS
+1912	Underground		TALAOS
+1913	Underground		ERGINOS
+1914	Underground	0.608	SALUT
+1915	Underground	0.293	VILLE
+1916	Underground		
+1917	Underground	2.86	Benzene
+1918	Underground	0.381	MARIBO
+1919	Underground		
+1920	Underground		
+1921	Underground	0.772	Agate
+1922	Underground		
+1923	Underground		
+1924	Underground		
+1925	Underground	0.597	SERE
+1926	Underground	0.183	CEBRERO
+1927	Underground	0.332	CHAMITA
+1928	Underground	0.365	PONIL
+1929	Underground	0.371	MILL YARD
+1930	Underground	0.404	DIAMOND BEECH
+1931	Underground	0.415	ROQUEFORT
+1932	Underground	0.7	HERO
+1933	Underground		CODROS
+1934	Underground	0.196	ABO
+1935	Underground		ZETES
+1936	Underground		MEGAREE
+1937	Underground	0.579	KINIBITO
+1938	Underground	0.549	GOLDSTONE
+1939	Underground	0.61	GLENCOE
+1940	Underground	0.394	MIGHTY OAK
+1941	Underground	0.259	MOGOLLON
+1942	Underground	0.609	JEFFERSON
+1943	Underground		HYLLOS
+1944	Underground		CETO
+1945	Underground	0.48	PAMINT
+1946	Underground		STHENELOS
+1947	Underground		GALATEE
+1948	Underground	0.518	TAJO
+1949	Underground	0.549	DARWIN
+1950	Underground	0.627	CYBAR
+1951	Underground	0.381	CORNUCOPIA
+1952	Underground	0.487	GALVESTON
+1953	Underground	0.503	ALEMAN
+1954	Underground	0.616	LABQUARK
+1955	Underground	0.605	BELMONT
+1956	Underground		HESIONE
+1957	Underground		UPLIOS
+1958	Underground	0.593	GASCON
+1959	Underground		PENELEOS
+1960	Underground		CIRCE
+1961	Underground	0.635	BODIE
+1962	Underground	0.262	HAZEBROOK APRICOT (ORANGE)
+1963	Underground	0.186	HAZEBROOK EMERALD (GREEN)
+1964	Underground	0.226	HAZEBROOK CHECKER BERRY (RED)
+1965	Underground	0.298	TORNERO
+1966	Underground		
+1967	Underground		
+1968	Underground	0.399	MIDDLE NOTE
+1969	Underground		
+1970	Underground		
+1971	Underground		
+1972	Underground	0.544	DELAMAR
+1973	Underground	2.015	Helium 3-1
+1974	Underground	2.055	Helium 3-2
+1975	Underground	0.32	PRESIDIO
+1976	Underground	0.625	HARDIN
+1977	Underground		JOCASTE
+1978	Underground		
+1979	Underground		LYCOMEDE
+1980	Underground		
+1981	Underground		
+1982	Underground		DIRCE
+1983	Underground	0.203	BRIE
+1984	Underground		
+1985	Underground	0.321	MISSION GHOST
+1986	Underground		IPHITOS
+1987	Underground	0.32	PANCHUELA
+1988	Underground	1.502	Neva 2-1
+1989	Underground	0.487	MIDLAND
+1990	Underground		
+1991	Underground	1.515	Neva 2-2
+1992	Underground		
+1993	Underground		
+1994	Underground	0.815	Neva 2-3
+1995	Underground	0.639	TAHOKA
+1996	Underground		
+1997	Underground	0.614	LOCKNEY
+1998	Underground	1.002	Batholith-2
+1999	Underground		
+2000	Underground	0.542	BORATE
+2001	Underground		HELENOS
+2002	Underground		PASIPHAE
+2003	Underground		
+2004	Underground		PELEE
+2005	Underground		DAE
+2006	Underground	0.183	WACO
+2007	Underground	0.271	MISSION CYBER
+2008	Underground		
+2009	Underground		
+2010	Underground		
+2011	Underground		
+2012	Underground		
+2013	Underground	0.542	KERNVILLE
+2014	Underground		
+2015	Underground	0.245	ABILENE
+2016	Underground		
+2017	Underground		
+2018	Underground		
+2019	Underground		NELEE
+2020	Underground	0.463	SCHELLBOURNE
+2021	Underground	0.351	LAREDO
+2022	Underground		NIOBE
+2023	Underground	0.62	COMSTOCK
+2024	Underground		
+2025	Underground		ANTIGONE
+2026	Underground	0.238	NIGHTINGALE
+2027	Underground	0.207	RHYOLITE
+2028	Underground		DEJANIRE
+2029	Underground	0.622	ALAMO
+2030	Underground	0.616	KEARSARGE
+2031	Underground	0.829	Ruby-2
+2032	Underground	0.29	HARLINGEN A
+2033	Underground	0.29	HARLINGEN B
+2034	Underground	0.489	BULLFROG
+2035	Underground	0.82	Ruby-1
+2036	Underground		
+2037	Underground		
+2038	Underground	0.64	DALHART
+2039	Underground		
+2040	Underground		ACRISIOS
+2041	Underground		THRASYMEDES
+2042	Underground	0.29	MOHANS A
+2043	Underground	0.29	MOHANS B
+2044	Underground		
+2045	Underground		
+2046	Underground		PHERES
+2047	Underground		CYCNOS
+2048	Underground		
+2049	Underground	0.369	KAWICH BLUE
+2050	Underground	0.369	KAWICH WHITE
+2051	Underground	0.4	MISTY ECHO
+2052	Underground		
+2053	Underground		
+2054	Underground		
+2055	Underground	0.503	TEXARKA
+2056	Underground		
+2057	Underground		
+2058	Underground	0.37	KAWICH RED
+2059	Underground	0.431	KAWICH BLACK
+2060	Underground	0.5	INGOT
+2061	Underground		EPEIOS
+2062	Underground	0.335	PALISADE I
+2063	Underground	0.404	PALISADE 3
+2064	Underground	0.39	PALISADE 2
+2065	Underground		TECMESSA
+2066	Underground	0.398	TULIA
+2067	Underground		NYCTEE
+2068	Underground		CYZICOS
+2069	Underground	0.544	CONTACT
+2070	Underground	0.64	AMARILLO
+2071	Underground		
+2072	Underground		
+2073	Underground	0.261	DISKO ELM
+2074	Underground		
+2075	Underground		
+2076	Underground		HYPSIPYLE
+2077	Underground	0.564	HORNITOS
+2078	Underground		ERIGONE
+2079	Underground	0.244	MULESHOE
+2080	Underground		TROS
+2081	Underground		LYCOS
+2082	Underground	0.601	BARNWELL
+2083	Underground	0.183	WHITEFACE B
+2084	Underground	0.197	WHITEFACE A
+2085	Underground	0.469	METROPOLIS
+2086	Underground	0.213	BOWIE
+2087	Underground		
+2088	Underground		TELEPHE
+2089	Underground		MEGAPENTHES
+2090	Underground	0.674	BULLION
+2091	Underground	0.35	AUSTIN
+2092	Underground		CYPSELOS
+2093	Underground		ANTICLEE
+2094	Underground	0.389	MINERAL QUARRY
+2095	Underground	0.389	RANDSBURG
+2096	Underground		
+2097	Underground	0.27	SUNDOWN A
+2098	Underground	0.256	SUNDOWN B
+2099	Underground	0.291	LEDOUX
+2100	Underground	0.6	TEBO
+2101	Underground		
+2102	Underground		HYRTACOS
+2103	Underground	0.594	HOUSTON
+2104	Underground		THOAS
+2105	Underground	0.333	COSO BRONZE
+2106	Underground	0.475	COSO SILVER
+2107	Underground	0.442	COSO GRAY
+2108	Underground	0.629	BEXAR
+2109	Underground	0.642	MONTELLO
+2110	Underground		MELANIPPE
+2111	Underground		ALCINOOS
+2112	Underground		PERICLYMENTOS
+2113	Underground		PITTHEE
+2114	Underground		CORONIS
+2115	Underground		LYCURGUE
+2116	Underground	0.503	FLOYDADA
+2117	Underground	0.658	HOYA
+2118	Underground	0.264	DISTANT ZENITH
+2119	Underground	0.457	LUBBOCK
+2120	Underground	0.457	BRISTOL
+2121	Underground	0.622	JUNCTION
+2122	Underground	0.236	DIAMOND FORTUNE
+2123	Underground		
+2124	Underground	0.244	VICTORIA
+2125	Underground	0.38	GALE ORANGE
+2126	Underground	0.4	GALE GREEN
+2127	Underground	0.29	GALE YELLOW
+2128	Underground	0.385	HUNTERS TROPHY
+2129	Underground	0.34	DIVIDER
+2130	Underground		
+2131	Underground		
+2132	Underground		
+2133	Underground		
+2134	Underground		
+2135	Underground		
+2136	Underground		THETYS
+2137	Underground		PLOUTOS
+2138	Underground		AEPYTOS
+2139	Underground		PHEGEE
+2140	Underground		THEMISTO
+2141	Underground		XOUTHOS
+2142	Underground		
+2143	Underground		
+2144	Underground	0.2	SHAKTI-1
+2145	Underground	0.15	SHAKTI-2
+2146	Underground		SHAKTI-3
+2147	Underground		SHAKTI-4
+2148	Underground		SHAKTI-5
+2149	Underground		Chagai-I
+2150	Underground		Chagai-II
+2151	Underground	0	2006 North Korean Nuclear Test
+2152	Underground	0	2009 North Korean Nuclear Test
+2153	Underground	0	2013 North Korean Nuclear Test
