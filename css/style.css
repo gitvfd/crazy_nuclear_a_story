@@ -127,7 +127,8 @@ a:active {
 }
 
 #vis .title {
-  font-size:45px;
+  font-size:30px;
+  font-style: italic;
   fill: gold;
   opacity: 0.5;
   text-anchor: middle;
