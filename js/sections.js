@@ -229,7 +229,7 @@ var scrollVis = function() {
   
   
       g.append("text")
-          .attr("class","step")
+          .attr("class","explanation")
           .attr("y", 5*height/6)
           .attr("x", width/2)
           .attr("dy", ".71em")
