@@ -250,7 +250,13 @@ var scrollVis = function() {
       .duration(300)
       //.attr("opacity", 0);
       .remove()
-
+      
+    g.selectAll(".explanation")
+      .transition().ease("linear")
+      .duration(300)
+      //.attr("opacity", 0);
+      .remove()
+      
     g.selectAll(".line-chart")
       .transition().ease("linear")
       .duration(0)
