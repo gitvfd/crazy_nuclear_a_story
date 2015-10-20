@@ -226,6 +226,14 @@ var scrollVis = function() {
           .attr("x", width/2)
           .attr("dy", ".71em")
           .text("NUCLEAR WORLD");    
+  
+  
+      g.append("text")
+          .attr("class","step")
+          .attr("y", 5*height/6)
+          .attr("x", width/2)
+          .attr("dy", ".71em")
+          .text("Scroll down slowly");   
   }
 
   function showImage(){
