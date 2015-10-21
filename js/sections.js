@@ -226,6 +226,14 @@ var scrollVis = function() {
           .attr("x", width/2)
           .attr("dy", ".71em")
           .text("NUCLEAR WORLD");    
+  
+  
+      g.append("text")
+          .attr("class","explanation")
+          .attr("y", 5*height/6)
+          .attr("x", width/2)
+          .attr("dy", ".71em")
+          .text("Scroll down slowly");   
   }
 
   function showImage(){
@@ -242,7 +250,13 @@ var scrollVis = function() {
       .duration(300)
       //.attr("opacity", 0);
       .remove()
-
+      
+    g.selectAll(".explanation")
+      .transition().ease("linear")
+      .duration(300)
+      //.attr("opacity", 0);
+      .remove()
+      
     g.selectAll(".line-chart")
       .transition().ease("linear")
       .duration(0)

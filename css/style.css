@@ -140,6 +140,13 @@ a:active {
   text-anchor: middle;
 }
 
+#vis .explanation {
+  font-size:30px;
+  font-style: italic;
+  fill: gold;
+  opacity: 0.5;
+  text-anchor: middle;
+}
 .conclusion {
   margin-bottom: 20px;
   font-family: "Minion","TiemposTextWeb-Regular","Georgia";
