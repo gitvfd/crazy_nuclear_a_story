@@ -184,7 +184,7 @@ a:active {
 }
 
 .bar:hover.testPerCountry-chart  {
-  fill: rgba(255,140,0,0.80);
+  fill: rgba(255,140,0,0.60);
 }
 
 .label.testPerCountry-chart{
@@ -230,6 +230,22 @@ a:active {
   fill: #ddd;
 }
 
+.tooltip0 {
+  font-family: "Minion","TiemposTextWeb-Regular","Georgia";;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: bold;
+}
+.tooltip1 {
+  font-family: "Minion","TiemposTextWeb-Regular","Georgia";;
+  font-size: 16px;
+  line-height: 18px;
+}
+.tooltip2 {
+  font-family: "Minion","TiemposTextWeb-Regular","Georgia";;
+  font-size: 14px;
+  line-height: 18px;
+}
 .overlay {
   fill: none;
   pointer-events: all;
@@ -272,43 +288,5 @@ a:active {
   pointer-events: all;
   cursor: pointer;
 }
-    
-    @media (min-width: 500px) {
-      .col-sm-3, .col-sm-9 {
-      float: left;
-      }
-      .col-sm-9 {
-      width: 75%;
-      }
-      .col-sm-3 {
-      width: 25%;
-      }
-    }
-    #tooltip {
-      position: absolute;
-      width: auto;
-      height: auto;
-      padding: 10px;
-      background-color: white;
-      -webkit-border-radius: 2px;
-      -moz-border-radius: 2px;
-      border-radius: 2px;
-      -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
-      -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
-      box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
-      pointer-events: none;
-      opacity: 0.90;
-      filter:alpha(opacity=90);
-      -moz-opacity:0.90;
-    }
 
-    #tooltip.hidden {
-      display: none;
-    }
 
-    #tooltip p {
-      margin: 0;
-      font-family: sans-serif;
-      font-size: 12px;
-      line-height: 13px;
-    }

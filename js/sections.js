@@ -101,6 +101,24 @@ var scrollVis = function() {
         //.attr("width", width + margin.left + margin.right)
         //.attr("height", height + margin.top + margin.bottom)
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+
+      gTooltip1 = svg.append("g")
+        //.attr("width", width + margin.left + margin.right)
+        //.attr("height", height + margin.top + margin.bottom)
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+
+      gTooltip2 = svg.append("g")
+        //.attr("width", width + margin.left + margin.right)
+        //.attr("height", height + margin.top + margin.bottom)
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");    
+
+
+      gTooltip0 = svg.append("g")
+        //.attr("width", width + margin.left + margin.right)
+        //.attr("height", height + margin.top + margin.bottom)
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");        
       // perform some preprocessing on raw data
       //var wordData = getWords(rawData);
       // filter to just include filler words
@@ -356,6 +374,24 @@ var scrollVis = function() {
           //.attr("d", line);
           .attrTween('d', pathTween);
 
+
+      g.append("text")
+          .transition(3500)
+          .attr("class", "tooltip1 line-chart")
+          .attr("text-anchor", "middle")
+          .attr("y",  15)
+          .attr("x", 175)
+          .text("Since 1945, ");
+
+
+      g.append("text")
+          .transition(3500)
+          .attr("class", "tooltip1 line-chart")
+          .attr("text-anchor", "middle")
+          .attr("y",  35)
+          .attr("x", 175)
+          .text("more than 2150 took place worldwide");
+
       function pathTween() {
         var interpolate = d3.scale.quantile()
           .domain([0,1])
@@ -479,6 +515,56 @@ var scrollVis = function() {
           .ease("quad")
           .attr("y", function(d) { return y(d.y1); })
           .attr("height", function(d) { return y(d.y0) - y(d.y1); });
+
+
+      gTooltip1.append("text")
+          .attr("class", "tooltip1 countrystacked-chart")
+          .attr("text-anchor", "start")
+          .attr("y",  15)
+          .attr("x", 19)
+          .text("");
+
+      gTooltip2.append("text")
+          .attr("class", "tooltip2 countrystacked-chart")
+          .attr("text-anchor", "start")
+          .attr("y",  35)
+          .attr("x", 19)
+          .text("");          
+
+      year.selectAll("rect")
+         .on("mouseover", function(d) {
+
+            d3.select(this)
+              .transition()
+              .attr("opacity",0.5);
+
+            gTooltip1.selectAll("text")
+              .transition()
+              .text(d.name)
+
+            gTooltip2.selectAll("text")
+              .transition()
+              .text(d.num + " test(s)");
+          });    
+
+      year.selectAll("rect")
+        .on("mouseout", function(d) {
+
+
+            d3.select(this)
+              .transition()
+              .attr("opacity",1);
+
+            gTooltip1.selectAll("text")
+              .transition()
+              .text("");
+
+
+            gTooltip2.selectAll("text")
+              .transition()
+              .text("");
+
+        }); 
 
 
       var legend = g.selectAll(".legend")
@@ -976,7 +1062,56 @@ var scrollVis = function() {
           .ease("quad")
           .attr("y", function(d) { return y(d.y1); })
           .attr("height", function(d) { return y(d.y0) - y(d.y1); });
+      
 
+      gTooltip1.append("text")
+          .attr("class", "tooltip1 showWeapons-chart")
+          .attr("text-anchor", "start")
+          .attr("y",  30)
+          .attr("x", 40)
+          .text("");
+
+      gTooltip2.append("text")
+          .attr("class", "tooltip2 showWeapons-chart")
+          .attr("text-anchor", "start")
+          .attr("y",  50)
+          .attr("x", 40)
+          .text("");          
+
+      year.selectAll("rect")
+         .on("mouseover", function(d) {
+
+            d3.select(this)
+              .transition()
+              .attr("opacity",0.5);
+
+            gTooltip1.selectAll("text")
+              .transition()
+              .text(d.name)
+
+            gTooltip2.selectAll("text")
+              .transition()
+              .text(d.num + " weapon(s)");
+          });    
+
+      year.selectAll("rect")
+        .on("mouseout", function(d) {
+
+
+            d3.select(this)
+              .transition()
+              .attr("opacity",1);
+
+            gTooltip1.selectAll("text")
+              .transition()
+              .text("");
+
+
+            gTooltip2.selectAll("text")
+              .transition()
+              .text("");
+
+        }); 
 
       var legend2 = g.selectAll(".legendWeapons")
           .data(color.domain().slice().reverse())
