@@ -113,12 +113,7 @@ var scrollVis = function() {
         //.attr("width", width + margin.left + margin.right)
         //.attr("height", height + margin.top + margin.bottom)
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");    
-
-
-      gTooltip0 = svg.append("g")
-        //.attr("width", width + margin.left + margin.right)
-        //.attr("height", height + margin.top + margin.bottom)
-        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");        
+      
       // perform some preprocessing on raw data
       //var wordData = getWords(rawData);
       // filter to just include filler words
@@ -319,6 +314,18 @@ var scrollVis = function() {
 
     
     g.selectAll(".countrystacked-chart")
+      .transition().ease("linear")
+      .duration(0)
+      //.attr("opacity", 0);
+      .remove()
+
+    gTooltip1.selectAll(".countrystacked-chart")
+      .transition().ease("linear")
+      .duration(0)
+      //.attr("opacity", 0);
+      .remove()
+
+    gTooltip2.selectAll(".countrystacked-chart")
       .transition().ease("linear")
       .duration(0)
       //.attr("opacity", 0);
@@ -593,6 +600,18 @@ var scrollVis = function() {
     var heightBar = height - 30;
 
     g.selectAll(".countrystacked-chart")
+      .transition().ease("linear")
+      .duration(0)
+      //.attr("opacity", 0);
+      .remove()
+
+    gTooltip1.selectAll(".countrystacked-chart")
+      .transition().ease("linear")
+      .duration(0)
+      //.attr("opacity", 0);
+      .remove()
+
+    gTooltip2.selectAll(".countrystacked-chart")
       .transition().ease("linear")
       .duration(0)
       //.attr("opacity", 0);
@@ -1151,6 +1170,18 @@ var scrollVis = function() {
       .duration(0)
       //.attr("opacity", 0);
       .remove()
+
+    gTooltip1.selectAll(".showWeapons-chart")
+      .transition().ease("linear")
+      .duration(0)
+      //.attr("opacity", 0);
+      .remove()
+
+    gTooltip2.selectAll(".showWeapons-chart")
+      .transition().ease("linear")
+      .duration(0)
+      //.attr("opacity", 0);
+      .remove()      
       
       //Quick fix for resizing some things for mobile-ish viewers
       var mobileScreen = ($( window ).innerWidth() < 500 ? true : false);
