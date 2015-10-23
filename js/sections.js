@@ -385,19 +385,29 @@ var scrollVis = function() {
       g.append("text")
           .transition(3500)
           .attr("class", "tooltip1 line-chart")
-          .attr("text-anchor", "middle")
+          .attr("text-anchor", "start")
           .attr("y",  15)
-          .attr("x", 175)
+          .attr("x", 100)
           .text("Since 1945, ");
 
 
       g.append("text")
           .transition(3500)
           .attr("class", "tooltip1 line-chart")
-          .attr("text-anchor", "middle")
+          .attr("text-anchor", "start")
           .attr("y",  35)
-          .attr("x", 175)
-          .text("more than 2150 took place worldwide");
+          .attr("x", 100)
+          .text("over 2153 tests");
+
+
+
+      g.append("text")
+          .transition(3500)
+          .attr("class", "tooltip1 line-chart")
+          .attr("text-anchor", "start")
+          .attr("y",  55)
+          .attr("x", 100)
+          .text("took place worldwide");          
 
       function pathTween() {
         var interpolate = d3.scale.quantile()
